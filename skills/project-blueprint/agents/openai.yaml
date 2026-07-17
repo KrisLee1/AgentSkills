@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Blueprint"
+  short_description: "Design modular, AI-ready project documentation"
+  default_prompt: "Use $project-blueprint to design an implementation-ready documentation system for my new project."
