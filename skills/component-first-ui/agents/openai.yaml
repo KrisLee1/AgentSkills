@@ -1,0 +1,4 @@
+interface:
+  display_name: "Component-First UI"
+  short_description: "Build UI from a maintained component catalog"
+  default_prompt: "Use $component-first-ui to implement this interface through the project UI documentation and reusable components."
