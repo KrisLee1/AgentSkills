@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Project Guides"
+  short_description: "Create accurate usage and development guides"
+  default_prompt: "Use $write-project-guides to create or update release-ready usage and development documentation for this project."
